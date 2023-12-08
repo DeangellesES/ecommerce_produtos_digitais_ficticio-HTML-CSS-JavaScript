@@ -1,4 +1,4 @@
-# <h1 align="center">Ecommerce simples de produtos digitais desenvolvido para treinar e servir de exemplo, com efeitos simples nos links</h1>
+# <h1 align="center">Ecommerce simples de produtos digitais desenvolvido para treinar e servir de exemplo, com efeitos simples nos links e responsivo</h1>
 
 ## 🚀 Tecnologias
 <div>
