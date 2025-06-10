@@ -1,4 +1,4 @@
-# <h1 align="center">Ecommerce simples de produtos digitais desenvolvido para treinar e servir de exemplo, com efeitos simples nos links e responsivo</h1>
+<!-- # <h1 align="center">Ecommerce simples de produtos digitais desenvolvido para treinar e servir de exemplo, com efeitos simples nos links e responsivo</h1>
 <br>
 <h3 align="start">link do site</h3>
 
@@ -16,7 +16,7 @@
 <!-- ## Tecnologias utilizadas no projeto
 * HTML
 * CSS -->
-<br>
+<!-- <br>
 <h3 align="center">Tela para desktop</h3>
 <div align="center">
   <img src="https://github.com/DeangellesES/ecommerce_produtos_digitais_ficticio-HTML-CSS-JavaScript/blob/main/desktop.png" width="800">
@@ -33,4 +33,23 @@
 <div align="center">
   <img src="https://github.com/DeangellesES/ecommerce_produtos_digitais_ficticio-HTML-CSS-JavaScript/blob/main/mobile.png" width="400">
 </div>
-<br>
+<br> -->
+
+<h1>Projeto: Site de um Ecommerce de Produtos Digitais</h1>
+
+<h2>📌 Sobre o Projeto</h2>
+<p>Este é um site Front-End simples de um Ecommerce de produtos Digitais, desnvolvido com o intuito de praticar as tecnologias HTML,CSS e JavaScript. Tem alguns efeitos na tela.</p>
+
+<h3>💻<a href="https://deangelleses.github.io/ecommerce_produtos_digitais_ficticio-HTML-CSS-JavaScript/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
+
+<h2>🚀 Tecnologias Utilizadas</h2>
+<ul>
+  <li><b>HTML5</b></li>
+  <li><b>CSS3</b> - Responsivo para mobile e tablet</li>
+  <li><b>JavaScript</b></li>
+</ul>
+
+<h2>⚙️ Funcionalidades</h2>
+<ul>
+  <li>Site Fictício</li>
+</ul>
