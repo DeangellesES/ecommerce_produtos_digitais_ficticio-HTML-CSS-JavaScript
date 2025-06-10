@@ -38,7 +38,7 @@
 <h1>Projeto: Site de um Ecommerce de Produtos Digitais</h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Este é um site Front-End simples de um Ecommerce de produtos Digitais, desnvolvido com o intuito de praticar as tecnologias HTML,CSS e JavaScript. Tem alguns efeitos na tela.</p>
+<p>Este é um site Front-End fictício simples de um Ecommerce de produtos Digitais, desnvolvido com o intuito de praticar as tecnologias HTML,CSS e JavaScript. Tem alguns efeitos na tela.</p>
 
 <h3>💻<a href="https://deangelleses.github.io/ecommerce_produtos_digitais_ficticio-HTML-CSS-JavaScript/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
