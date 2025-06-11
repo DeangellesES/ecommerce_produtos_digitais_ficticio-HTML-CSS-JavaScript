@@ -51,5 +51,5 @@
 
 <h2>⚙️ Funcionalidades</h2>
 <ul>
-  <li>Site Fictício</li>
+  <li>Site ficticio de venda de produtos digitais</li>
 </ul>
